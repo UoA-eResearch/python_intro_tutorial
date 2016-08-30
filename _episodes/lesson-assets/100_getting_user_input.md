@@ -1,0 +1,67 @@
+---
+title: "Getting user input"
+teaching: 5
+exercises: 0
+questions:
+- "How can I get write a program that asks for user input and does stuff with the input?"
+objectives:
+- "Use the input statement to elicit user input. "
+- "Understand that the input statement returns a string and casting is necessary when the input is to be treated as a different data type."
+
+keypoints:
+- the input command returns a string. 
+---
+## Recall the print command
+
+So far you’ve learned how to print a message on the console window using the `print` statement. We use this command to tell the interpreter to to output the value entered as a parameter on the console(screen).   
+
+## Introducing input
+Now suppose that we would like the user to enter a value while the program is running and for us store the value in a variable. This is achieved using the input function. The input function is defined as follows:   
+
+~~~
+input([prompt])
+~~~
+{: .python}
+
+`input` pauses the operation of a program in order for the user to enter some text in the console. It consists of one optional argument called a `prompt`. A prompt is a message that is printed on the screen asking the user to enter some text. When the user enters this value and presses the `return` key, the text entered is returned by the function as a string. For this reason, it is common practise to store the result returned by `input` in a variable.To show it in action, enter and execute the following code:   
+
+~~~
+first_name=input("Enter your first name: ")
+last_name=input("Enter your last name: ")
+print("Your full name is" + first_name + " " + last_name)
+~~~
+{: .python}  
+~~~
+Enter your first name: Terry
+Enter your last name: Crews
+Your full name is Terry Crews
+~~~
+{: .output} 
+
+The input function requires one parameter which is the message that is displayed on the console asking the user to enter input. It returns the text entered by the user as a string and we can accordingly store it in a variable as we see in the code above. 
+
+## `Input` returns a string
+
+Now try the following code:
+
+~~~
+number=input("Enter a number: ")
+print(number*6))
+~~~
+{: .python} 
+~~~
+111111
+~~~
+{: .output}  
+    
+Strange huh. Instead of printing 6, our code printed 111111 because, number was treated as a string, when print(number*6) was executed. Let's check the data type of number:  
+  
+~~~
+print(type(number))
+~~~
+{: .python} 
+~~~
+<class 'str'>
+~~~
+{: .output}  
+
