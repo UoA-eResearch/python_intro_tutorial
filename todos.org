@@ -3,6 +3,8 @@
 ** TODO Global todo list for project 
 ** TODO Go through software carpentry material. 
 * Lessons 
+** TODO IDE Basics. Could be intermediate 
+** TODO Ipython Notebook basics. 
 ** TODO Finalise setup guide 
 *** TODO Ensure instructions to install pyzo on ubuntu are available 
 ** TODO Difference btw. Python 2 and python 3. 
@@ -82,3 +84,5 @@ Import some helpful libraries. Make very clear that these are still python but r
 
 
 #+TODO: TODO(t) | DONE(d)
+
+* Notes
