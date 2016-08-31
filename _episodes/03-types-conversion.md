@@ -296,6 +296,5 @@ first is 2 and second is 5
 > {: .solution}
 {: .challenge}
 
-> ## Complex Numbers
->
+
 
