@@ -3,7 +3,7 @@ title: "Running and Quitting"
 teaching: 15
 exercises: 0
 questions:
-- "How can I run Python programs?"
+- "How can I run Python programs using a notebook?"
 objectives:
 - "Launch the Jupyter Notebook, create new notebooks, and exit the Notebook."
 - "Create Markdown cells in a notebook."
@@ -21,9 +21,9 @@ keypoints:
 *   They have the ".py" extension to let everyone (including the operating system) 
     know it is a Python program.
     *   This is convention, not a requirement.
-*   It's common to write them using a text editor but we are going to use the Jupyter Notebook.
-*   The bit of extra setup is well worth it because the Notebook provides code completion 
-    and other helpful features.
+*   It's common to write them using an IDE, for example Pyzo but we are going to use the Jupyter Notebook for the majority of this course.
+	* We will dedicate part of the course to explaining how to use an IDE.
+	* We will also explain the differences between a Notebook and an IDE and when one should consider using each. 
 *   Notebook files have the extension ".ipynb" to distinguish them from plain-text Python programs.
 
 ## Use the Jupyter Notebook for editing and running Python.
@@ -55,9 +55,7 @@ keypoints:
 *   The notebook is stored as JSON but can be saved as a .py file if you would
     like to run it from the bash shell or a python interpreter.
 *   Just like a webpage, the saved notebook looks different to what you see when 
-    it gets rendered by your browser.
-
-FIXME: diagram
+    it gets rendered by your browser. 
 
 > ## How It's Stored
 >
@@ -69,7 +67,7 @@ FIXME: diagram
 
 ## The Notebook has Control and Edit modes.
 
-*   Open a new notebook from the dropdown menu in the top right corner of the file browser page.
+*   Open a new notebook from the dropdown menu in the top right corner of the file browser page by clicking New=>Python [Root]
 *   Each notebook contains one or more cells of various types.
 
 > ## Code vs. Text
