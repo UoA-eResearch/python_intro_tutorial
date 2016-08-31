@@ -15,7 +15,7 @@ To participate in the python workshop, you will need access to the software desc
 
 
 
-### Windows - [Video tutorial](https://www.youtube.com/watch?v=xxQ0mzZ8UvA)
+#### Windows - [Video tutorial](https://www.youtube.com/watch?v=xxQ0mzZ8UvA)
 
 1. Open [http://continuum.io/downloads](http://continuum.io/downloads#_windows) 
     with your web browser.
@@ -26,7 +26,7 @@ To participate in the python workshop, you will need access to the software desc
     default settings. The only exception is to check the 
     **Make Anaconda the default Python** option.
 
-### Mac OS X - [Video tutorial](https://www.youtube.com/watch?v=TcSAln46u9U)
+#### Mac OS X - [Video tutorial](https://www.youtube.com/watch?v=TcSAln46u9U)
 
 1. Open [http://continuum.io/downloads](http://continuum.io/downloads#_macosx) 
     with your web browser.
@@ -35,7 +35,7 @@ To participate in the python workshop, you will need access to the software desc
 
 3. Install Python 3 using all of the defaults for installation.
 
-### Linux
+#### Linux
 Note that the following installation steps require you to work from the shell. 
 If you run into any difficulties, please request help before the workshop begins.
 

@@ -6,11 +6,18 @@
 ** TODO IDE Basics. Could be intermediate 
 ** TODO Ipython Notebook basics. 
 ** TODO Finalise setup guide 
-*** TODO Ensure instructions to install pyzo on ubuntu are available 
+*** WAITING Ensure instructions to install pyzo on ubuntu are available 
+    - State "WAITING"    from "WAITING"    [2016-08-31 Wed 12:49] \\
+      Waiting on ubuntu install
+*** DONE Instructions to check installation are up. 
+    CLOSED: [2016-08-31 Wed 12:41]
+    - CLOSING NOTE [2016-08-31 Wed 12:41] \\
+      Donseskis
+    - CLOSING NOTE [2016-08-31 Wed 11:44] \\
+      Done and dusted
 ** TODO Difference btw. Python 2 and python 3. 
 ** TODO 1st Session (longer session to account for installation of software):
 ** TODO Difference btw. Python 2 and python 3
-** TODO Software Installation and setup. (30min)
 ** TODO Basic python types, operations. Declaring data structures (lists, dictionaries). 
 *** TODO Float: a number represented with a decimal place.
 *** TODO Integer: a whole number represented without a decimal place.
@@ -86,3 +93,10 @@ Import some helpful libraries. Make very clear that these are still python but r
 #+TODO: TODO(t) | DONE(d)
 
 * Notes
+
+** All notes named with dot notation to ensure lessons are in order 
+
+
+
+
+
