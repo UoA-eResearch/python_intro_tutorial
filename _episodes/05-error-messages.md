@@ -30,7 +30,6 @@ In the notebook, we can use markup to document our code. However, python has a w
 ~~~
 # This sentence isn't executed by Python.
 adjustment = 0.5   # Neither is this - anything after '#' is ignored.
-
 /* This code is also not executed even though it spans multiple lines. That's because it's a multi-line comment. All code is ignored up to here because the closing symbol follows.  */
 ~~~
 {: .python}
