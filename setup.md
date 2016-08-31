@@ -71,7 +71,7 @@ If you run into any difficulties, please request help before the workshop begins
 
 #### Windows
 
-1. Open http://www.pyzo.org/start.html with your web browser.
+1. Open [http://www.pyzo.org/start.html](http://www.pyzo.org/start.html) with your web browser.
 2. Under step 1, click on the pyzo for windows link.
 3. Click next.
 4. Click next.
@@ -81,7 +81,7 @@ If you run into any difficulties, please request help before the workshop begins
 
 #### Mac Osx
 
-1. Open http://www.pyzo.org/start.html with your web browser.
+1. Open [http://www.pyzo.org/start.html](http://www.pyzo.org/start.html) with your web browser.
 2. Under step 1, click on the pyzo for OSX link.
 3. Right click the installer file and then click open.
 4. Right click the file that says pyzo and click open.
@@ -89,6 +89,7 @@ If you run into any difficulties, please request help before the workshop begins
 
 #### Ubuntu
 
+1. Open [http://www.pyzo.org/start.html](http://www.pyzo.org/start.html) with your web browser.
 
 ## Getting the Data
 
@@ -98,30 +99,6 @@ To obtain it, download and unzip the file
 In order to follow the presented material, you should launch a Jupyter 
 notebook in the "data" directory (see [Starting Python](#Starting-Python)).
 
-## Starting Python
-
-We will teach Python using the [Jupyter notebook](http://jupyter.org/), a 
-programming environment that runs in a web browser. Jupyter requires a reasonably 
-up-to-date browser, preferably a current version of Chrome, Safari, or Firefox 
-(note that Internet Explorer version 9 and below are *not* supported). If you 
-installed Python using Anaconda, Jupyter should already be on your system. If 
-you did not use Anaconda, use the Python package manager pip.
-([See the Jupyter website for details](http://jupyter.readthedocs.io/en/latest/
-install.html#optional-for-experienced-python-developers-installing-jupyter-with-pip))
-
-To start the notebook, open a terminal or git bash and type the command:
-
-~~~
-$ jupyter notebook
-~~~
-{: .source}
-
-To start the Python interpreter without the notebook, open a terminal 
-or git bash and type the command:
-
-~~~
-$ python
-~~~
-{: .source}
+Head to the [first lesson](https://uoa-eresearch.github.io/python_intro_tutorial/01/) to check that you've set up the software correctly.
 
 [data-zip]: {{site.github.repository_url}}/blob/gh-pages/files/python-novice-gapminder-data.zip?raw=true
