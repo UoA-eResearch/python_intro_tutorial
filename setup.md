@@ -4,18 +4,20 @@ title: "Setup"
 permalink: /setup/
 ---
 
+## Required software
+To participate in the python workshop, you will need access to the software described below: 
+
+- Python version 3.x : [Python](https://python.org) is a popular language for scientific computing, and great for general-purpose programming as well. Installing all of its scientific packages individually can be a bit difficult, however, so we recommend the all-in-one installer [Anaconda](https://www.continuum.io/anaconda). Regardless of how you choose to install it, please make sure you install Python version 3.x (e.g., 3.4 is fine). Also, please set up your python environment at least a day in advance of the workshop.  If you encounter problems with the installation procedure, ask your workshop organizers via e-mail for assistance so you are ready to go as soon as the workshop begins.
+- IDE. | column | column |
+|--------|--------|
+| blah blah |     ssf   |
+|--------|------------|
+|ssdfs|ssfsdf|
+
 ## Installing Python Using Anaconda
 
-[Python](https://python.org) is a popular language for scientific computing, and great for
-general-purpose programming as well. Installing all of its scientific packages
-individually can be a bit difficult, however, so we recommend the all-in-one
-installer [Anaconda](https://www.continuum.io/anaconda).
 
-Regardless of how you choose to install it, please make sure you install Python
-version 3.x (e.g., 3.4 is fine). Also, please set up your python environment at 
-least a day in advance of the workshop.  If you encounter problems with the 
-installation procedure, ask your workshop organizers via e-mail for assistance so
-you are ready to go as soon as the workshop begins.
+
 
 ### Windows - [Video tutorial](https://www.youtube.com/watch?v=xxQ0mzZ8UvA)
 
