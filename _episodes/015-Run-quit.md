@@ -67,7 +67,7 @@ keypoints:
 
 ## The Notebook has Control and Edit modes.
 
-*   Open a new notebook from the dropdown menu in the top right corner of the file browser page by clicking New=>Python [Root]
+*   Open a new notebook from the dropdown menu in the top right corner of the file browser page by clicking `New=>Python [Root]`
 *   Each notebook contains one or more cells of various types.
 
 > ## Code vs. Text
@@ -78,7 +78,7 @@ keypoints:
 > a "text cell" is one that contains ordinary prose written for human beings.
 {: .callout}
 
-*   If you press "esc" and "return" alternately,
+*   If you press `esc` and `return` alternately,
     the outer border of your code cell will change from gray to green.
     *   The difference in color is subtle.
 *   These are the control (gray) and edit (green) modes of your notebook.
