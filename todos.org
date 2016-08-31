@@ -50,7 +50,9 @@ Exercises involving classes/library and going to google.
     CLOSED: [2016-08-31 Wed 15:32]
 *** TODO substring()
 *** TODO find()
-*** TODO max()/min()
+*** DONE max()/min()
+    CLOSED: [2016-08-31 Wed 16:18]
+    - CLOSING NOTE [2016-08-31 Wed 16:18]
 *** TODO Search google for some and put emphasis on the fact that memorizing functions are not important but rather a skill picked up by practice. If you were working in a lab you don't need to know everything about the lab just where to look for what you are wanting to use.
 ** TODO Input 
 *** TODO Converting types.
@@ -112,6 +114,7 @@ Import some helpful libraries. Make very clear that these are still python but r
 *** TODO Order of operations. 
 *** TODO Googling functions. Exercise or Demonstrate. 
 *** TODO Multiline comments. 
+*** TODO Using stack overflow for code trouble shooting. 
 
 * Lesson Notes 
 ** Running and Quiting: 
@@ -187,4 +190,14 @@ Import some helpful libraries. Make very clear that these are still python but r
 ***** function_name?
 *** Every function returns something 
 **** None is what it returns when it has nothing useful to return. 
+** Error messages. 
+*** Comments. 
+*** Sytax errors cause. 
+*** Sometimes python gives us line numbers with errors. 
+*** Reading an error message ipython 
+*** U dont have to know all error messages. 
+**** stack overflow. 
+**** google. 
+*** Indentation error
+*** 
 

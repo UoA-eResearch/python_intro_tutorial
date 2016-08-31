@@ -3,9 +3,11 @@ title: "Error Messages"
 teaching: 5
 exercises: 10
 questions:
+- "How can I make it easier for other people to understand my code."
 - "What kind of errors can occur in programs?"
 - "How can I identify errors when they occur?"
 objectives:
+- "Understand how to use single and multi line comments to document code"
 - "Read a traceback and determine the file, function, and line number on which the error occurred, the type of error, and the error message."
 - "Correctly describe situations in which SyntaxError, IndentationError, NameError, IndexError, and FileNotFoundError occur."
 keypoints:
@@ -119,11 +121,6 @@ NameError: name 'aege' is not defined
 {: .error}
 
 ## Fix syntax errors by reading the source and runtime errors by tracing execution.
-
-FIXME: diagram of where each type of error occurs.
-
-FIXME: this entire episode needs to move later (we can't do IndentationError yet, or 
-talk about the tracebacks until we've written functions).
 
 > ## Reading Error Messages
 >
