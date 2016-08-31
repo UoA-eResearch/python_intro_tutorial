@@ -17,9 +17,21 @@ keypoints:
 ---
 ## Use comments to add documentation to programs.
 
+It is good practise to explain what our code is doing so that future users of our code can better understand how our code works. Some things to document include: 
+
+* Who wrote the code.
+* What the code does.
+* What information the variables store.
+
+In the notebook, we can use markup to document our code. However, python has a way of documenting our code as well called commenting. There are two ways to comment in python. 
+
+* single line comment. This is indicated by the `#` operator. In python anything after the `#` symbol is ignored for the rest of the line. 
+* multi line comment. This is indicated by `/*` to start the comment and `/*` to end it. 
 ~~~
 # This sentence isn't executed by Python.
 adjustment = 0.5   # Neither is this - anything after '#' is ignored.
+
+/* This code is also not executed even though it spans multiple lines. That's because it's a multi-line comment. All code is ignored up to here because the closing symbol follows.  */
 ~~~
 {: .python}
 
