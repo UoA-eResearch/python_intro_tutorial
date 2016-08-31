@@ -82,8 +82,8 @@ keypoints:
     the outer border of your code cell will change from gray to green.
     *   The difference in color is subtle.
 *   These are the control (gray) and edit (green) modes of your notebook.
-*   If you use the "esc" and "return" keys to make the surround gray
-    and then press the "H" key,
+*   If you use the `esc` and `return` keys to make the surround gray
+    and then press the `H` key,
     a list of all the shortcut keys will appear.
 *   When in control mode (esc/gray),
     *   The "B" key will make a new cell below the currently selected cell.
