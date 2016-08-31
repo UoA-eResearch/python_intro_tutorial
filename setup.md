@@ -69,21 +69,25 @@ If you run into any difficulties, please request help before the workshop begins
 
 ## Installing Pyzo
 
-### Windows
-Open http://www.pyzo.org/start.html with your web browser. 
-Under step 1, click on the pyzo for windows link. 
-Click next.
-Click next. 
-Click next. 
-Click next. 
-Wait for the program to finish installing then click finish. 
-Mac Osx
-Open http://www.pyzo.org/start.html with your web browser. 
-Under step 1, click on the pyzo for OSX link. 
-Right click the installer file and then click open. 
-Right click the file that says pyzo and click open. 
-When it has finished installing open pyzo. 
-Ubuntu
+#### Windows
+
+1. Open http://www.pyzo.org/start.html with your web browser.
+2. Under step 1, click on the pyzo for windows link.
+3. Click next.
+4. Click next.
+5. Click next.
+6. Click next.
+7. Wait for the program to finish installing then click finish.
+
+#### Mac Osx
+
+1. Open http://www.pyzo.org/start.html with your web browser.
+2. Under step 1, click on the pyzo for OSX link.
+3. Right click the installer file and then click open.
+4. Right click the file that says pyzo and click open.
+5. When it has finished installing open pyzo.
+
+#### Ubuntu
 
 
 ## Getting the Data
