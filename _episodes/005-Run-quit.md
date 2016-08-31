@@ -1,0 +1,88 @@
+---
+title: "Software requirements"
+teaching: 0
+exercises: 30
+questions:
+- What software do I need? 
+- "How do I make sure that the required software is installed correctly on my computer."
+objectives:
+- "To ensure that all required software is installed on your computer?"
+- "To get instructors involved if any problems are present so that you can keep up with the lesson without any technical issues."
+keypoints:
+- Proper Prior Preparation Prevents Piss Poor Performance. 
+---
+## Software Requirements
+In order to complete this course, you will require the following 2 pieces of software: 
+
+*   Continuum Anaconda. Ensure that you have the python 3.x version.
+*   Pyzo. Ensure that you are you are using the anaconda python interprettor.
+
+Instructions on how to check this are in the following section. 
+
+## Testing Anaconda
+Open the command prompt in windows or terminal for MAC OSX/Linux and type the following:
+
+~~~
+jupyter notebook
+~~~
+{: .code}
+
+Press enter. An internet browser window should pop up that looks as below:
+
+![jupyter notebook image](http://https://uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/jupyter_notebook.png)
+click new=>terminal. A new tab will open showing a black screen with a flashing cursor. Now type the following and press enter: 
+
+~~~
+python 
+~~~
+{: .code}
+You should see output that looks simillar to the screenshot below: 
+![jupyter terminal image](http://https://uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/check_python_version.png)
+
+Click new=>python [root]. A window pop up. Enter the following text in that window:
+
+~~~
+print("hello world!!!")
+~~~
+{: .code}
+
+Click Cell=>Run Cells. The following output should appear below the text you entered: 
+
+~~~
+hello world
+~~~
+{: .output}
+
+
+## Testing pyzo
+Open Pyzo. A window should popup that is simmilar to what is shown below:  
+![jupyter terminal image](http://https://uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/pyzo_check_python_version.png)
+
+Take a look at the window on the top right corner where it says:
+
+~~~
+>Python 3.5.2 |Anaconda 4.1.1 (x86_64)| (default, Jul  2 2016, 17:52:12) on darwin (64 bits).
+This is the Pyzo interpreter with integrated event loop for PYQT4.
+Type 'help' for help, type '?' for a list of *magic* commands.
+~~~
+{: .output}
+
+Ensure that it says `Python 3.x` instead of `Python 2.x`. If it says `Python 2.x` ***please call an instructor*** because you have the wrong version of python installed, or you have not chose the correct python interprettor. Otherwise, if all has gone well so far, then move on to the next step. 
+Now type the following: 
+
+~~~
+print('Hello world')
+~~~
+{: .python}
+
+Click Run=>Execute file.
+
+To the right of the screen, you should see some text that looks as follows:
+
+~~~
+>>> (executing line 1 of "<tmp 1>")
+hello world
+~~~
+{: .output}
+
+If what you see on the screen is different from what's above, please call an instructor to ensure that everything is set up and working as expected.
