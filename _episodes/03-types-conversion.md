@@ -190,7 +190,7 @@ three squared is 9.0
 *   If we make one cell in a spreadsheet depend on another,
     and update the latter,
     the former updates automatically.
-*   This does **not** happen in programming languages.
+*   This does **not** happen all the time in programming languages.
 
 ~~~
 first = 1
@@ -298,5 +298,4 @@ first is 2 and second is 5
 
 > ## Complex Numbers
 >
-> FIXME: introduce complex numbers
-{: .challenge}
+
