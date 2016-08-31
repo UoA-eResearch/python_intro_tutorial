@@ -27,6 +27,7 @@ In the notebook, we can use markup to document our code. However, python has a w
 
 * single line comment. This is indicated by the `#` operator. In python anything after the `#` symbol is ignored for the rest of the line. 
 * multi line comment. This is indicated by `/*` to start the comment and `/*` to end it. 
+
 ~~~
 # This sentence isn't executed by Python.
 adjustment = 0.5   # Neither is this - anything after '#' is ignored.
