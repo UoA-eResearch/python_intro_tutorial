@@ -3,8 +3,9 @@
 ** TODO Global todo list for project 
 ** TODO Go through software carpentry material. 
 * Lessons 
-** TODO IDE Basics. Could be intermediate 
-** TODO Ipython Notebook basics. 
+** TODO IDE Basics. Running and quiting Pyzo  
+** DONE Ipython Notebook basics. 
+   CLOSED: [2016-08-31 Wed 14:45]
 ** TODO Finalise setup guide 
 *** WAITING Ensure instructions to install pyzo on ubuntu are available 
     - State "WAITING"    from "WAITING"    [2016-08-31 Wed 12:49] \\
@@ -19,9 +20,12 @@
 ** TODO 1st Session (longer session to account for installation of software):
 ** TODO Difference btw. Python 2 and python 3
 ** TODO Basic python types, operations. Declaring data structures (lists, dictionaries). 
-*** TODO Float: a number represented with a decimal place.
-*** TODO Integer: a whole number represented without a decimal place.
-*** TODO String: a list of characters.
+*** DONE Float: a number represented with a decimal place.
+    CLOSED: [2016-08-31 Wed 15:31]
+*** DONE Integer: a whole number represented without a decimal place.
+    CLOSED: [2016-08-31 Wed 15:31]
+*** DONE String: a list of characters.
+    CLOSED: [2016-08-31 Wed 15:31]
 *** TODO Lists: a list of objects.
 *** TODO Understanding 2D array (list of lists).
 Important for numPy.
@@ -30,13 +34,20 @@ Create a .csv file relating to a population health study.
 Demo of numPy/matplotlib.
 Exercises involving classes/library and going to google.
 ** TODO Basic arithmetic:
-*** TODO add or concatenate.
-*** TODO / division.
-*** TODO // floor division 
-*** TODO % modulus.
-*** TODO Print statements, Built in functions, help.
-*** TODO print()
-*** TODO len()
+*** DONE add or concatenate.
+    CLOSED: [2016-08-31 Wed 15:31]
+*** DONE / division.
+    CLOSED: [2016-08-31 Wed 15:31]
+*** DONE // floor division 
+    CLOSED: [2016-08-31 Wed 15:31]
+*** DONE % modulus.
+    CLOSED: [2016-08-31 Wed 15:31]
+*** DONE Print statements, Built in functions, help.
+    CLOSED: [2016-08-31 Wed 15:31]
+*** DONE print()
+    CLOSED: [2016-08-31 Wed 15:32]
+*** DONE len()
+    CLOSED: [2016-08-31 Wed 15:32]
 *** TODO substring()
 *** TODO find()
 *** TODO max()/min()
@@ -92,11 +103,88 @@ Import some helpful libraries. Make very clear that these are still python but r
 
 #+TODO: TODO(t) | DONE(d)
 
-* Notes
+* Misc Notes
 
 ** All notes named with dot notation to ensure lessons are in order 
+** Do we want to seperate basic markdown from basic notebook? 
+** Should we get rid of the part that says values only change when something is assignmed to them.? 
+** Built in functions 
+*** TODO Order of operations. 
+*** TODO Googling functions. Exercise or Demonstrate. 
+*** TODO Multiline comments. 
 
-
-
-
+* Lesson Notes 
+** Running and Quiting: 
+*** .py extension is not mandatory ie. is for humans. 
+*** Benefits of using a notebook. 
+*** Key shortcuts. 
+**** Esc Control mode. 
+***** Try some stuff. 
+***** A New cell Above. 
+***** B New cell below. 
+***** X Delete cell. 
+**** Ret Edit mode. 
+***** Ret adds other lines to code. 
+***** Shift + Ret Executes cell. 
+*** Rendering markdown with notebooks. 
+***** A simplified format that allows us to write documents that will look like webpages. 
+***** We can access markdown mode by pressing M in control mode. 
+***** Go back to code mode by pressing Y in control mode. 
+**** Examples  
+***** L1 Header and L2. 
+***** Unordered List. 
+***** Ordered list. 
+***** Links 
+***** Named Links 
+** Variables and Assignment 
+*** = operator. 
+*** Allowed variable names. 
+**** Cant start with digit. 
+**** cant contain spaces, ' marks or other punct except. 
+**** underscore ie. used to seperate words in var name. 
+**** underscores at start have a special purpose which we wont cover in less. 
+*** print function. 
+**** displays things. 
+**** Used for print debugging. 
+*** we call the print function ie. pokemon analogy. 
+**** Variables persist between cells once executed. Illustrate this. 
+**** Variables must be declared. 
+*** last line of error message usually the most usefull. 
+**** Python case sensistive. 
+***** we recommend using lower case with underscores even though there are many naming conventions. 
+**** Use meaningful variable names.
+***** Consider your future self 
+***** Audience. 
+**** Variables can be used in calculations. 
+**** Swapping values exercise. 
+** Data types and type conversion 
+*** Every value has a type. 
+**** ints, floats and strings. 
+**** type function. Used to determine type of whats stored in variables(not var itself)  
+**** type determines operations that can be performed on values. 
+***** ints can be subtracted but not stings. 
+***** eg. strings can be added and multiplied but has different effect. 
+***** Strings have length but not int and floats
+***** Must convert types to perform some operations on them. 
+***** basic type conversion. 
+***** can mix ints and floats freely in ops. 
+***** Unlike spreadsheet cells. vars only change value when changed directly.  
+** Built in functions and help 
+*** What's an argument. 
+*** Different functions take different numbers of argumensts 
+**** Always use parenthesis even when zero arguments. 
+*** min, max and round. 
+**** min and max work on strings. 
+*** However, functions may only contain certain(combinations of) arguments. 
+**** len cant take in. 
+**** max and min must have at least one argument. 
+*** Some functions have default argument values. 
+**** round with 1 value rounds to 0 decimal places. 
+*** How do we find this information out?
+**** help(function_name)
+**** two additional ways in jupyter. 
+***** shift - tab in parenthesis of function. 
+***** function_name?
+*** Every function returns something 
+**** None is what it returns when it has nothing useful to return. 
 
