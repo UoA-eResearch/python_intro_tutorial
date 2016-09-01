@@ -111,9 +111,10 @@ Import some helpful libraries. Make very clear that these are still python but r
 ** Do we want to seperate basic markdown from basic notebook? 
 ** Should we get rid of the part that says values only change when something is assignmed to them.? 
 ** Built in functions 
-*** TODO Order of operations. 
+*** TODO Beware of order of operations. 
+*** TODO Random function/Library.  
 *** TODO Googling functions. Exercise or Demonstrate. 
-*** TODO Multiline comments. 
+*** DONE Multiline comments. 
 *** TODO Using stack overflow for code trouble shooting. 
 
 * Lesson Notes 
@@ -201,3 +202,7 @@ Import some helpful libraries. Make very clear that these are still python but r
 *** Indentation error
 *** 
 
+
+
+#+TODO: TODO(t) WAITING(w) | DONE(d)
+#+TODO: REPORT(r) BUG(
