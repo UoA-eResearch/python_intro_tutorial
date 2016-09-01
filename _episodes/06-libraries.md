@@ -124,6 +124,7 @@ cos(pi) is -1.0
 > ## Locating the Right Library
 >
 > You want to select a random value from your data:
+> 
 > ~~~
 > ids = [1, 2, 3, 4, 5, 6]
 > ~~~
