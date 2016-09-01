@@ -127,6 +127,7 @@ cos(pi) is -1.0
 > ~~~
 > ids = [1, 2, 3, 4, 5, 6]
 > ~~~
+> {: .output}
 >
 > 1. What [standard library][stdlib]
 >    would you most expect to help?
