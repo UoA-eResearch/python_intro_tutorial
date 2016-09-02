@@ -2,6 +2,8 @@
 ** TODO Get images rendering properly in project 
 ** TODO Global todo list for project 
 ** TODO Go through software carpentry material. 
+
+
 * Lessons 
 ** TODO IDE Basics. Running and quiting Pyzo  
 ** DONE Ipython Notebook basics. 
@@ -105,6 +107,8 @@ Import some helpful libraries. Make very clear that these are still python but r
 
 #+TODO: TODO(t) | DONE(d)
 
+
+
 * Misc Notes
 
 ** All notes named with dot notation to ensure lessons are in order 
@@ -116,6 +120,11 @@ Import some helpful libraries. Make very clear that these are still python but r
 *** TODO Googling functions. Exercise or Demonstrate. 
 *** DONE Multiline comments. 
 *** TODO Using stack overflow for code trouble shooting. 
+** Libraries
+*** TODO 
+** Lists and indexing 
+*** Lists are like locker rooms where each locker stores at most one value. 
+*** 
 
 * Lesson Notes 
 ** Running and Quiting: 
