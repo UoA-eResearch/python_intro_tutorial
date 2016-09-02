@@ -46,8 +46,8 @@ if mass > 3.0:
 ~~~
 masses = [3.54, 2.07, 9.22, 1.86, 1.71]
 for m in masses:
-    if mass > 3.0:
-        print(mass, 'is large')
+    if m > 3.0:
+        print(m, 'is large')
 ~~~
 {: .python}
 ~~~
