@@ -9,6 +9,7 @@ objectives:
 - "Understand that the input statement returns a string and casting is necessary when the input is to be treated as a different data type."
 
 keypoints:
+- the input command is used to communicate with the user over the console. 
 - the input command returns a string. 
 ---
 ## Recall the print command
