@@ -29,7 +29,10 @@ jupyter notebook
 
 Press enter. An internet browser window should pop up that looks as below:
 
-![jupyter notebook image](http://https://uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/jupyter_notebook.png)
+![jupyter notebook image]({{ page.root }}/fig/jupyter_notebook.png)
+
+
+
 click new=>terminal. A new tab will open showing a black screen with a flashing cursor. Now type the following and press enter: 
 
 ~~~
