@@ -29,8 +29,7 @@ jupyter notebook
 
 Press enter. An internet browser window should pop up that looks as below:
 
-<a href="{{ page.root }}/fig/jupyter-notebook.png"><img src="{{ page.root }}/fig/episode-format-small.png" alt="Formatting Rules" /></a>
-
+<a href="http://imgbox.com/Q89BV9Y6" target="_blank"><img src="http://6.t.imgbox.com/Q89BV9Y6.jpg" alt="image host"/></a>  
 
 
 click new=>terminal. A new tab will open showing a black screen with a flashing cursor. Now type the following and press enter: 
@@ -41,8 +40,8 @@ python
 {: .code}
 You should see output that looks simillar to the screenshot below: 
 
-![jupyter terminal image](//imgur.com/SB0zG07)
-<blockquote class="imgur-embed-pub" lang="en" data-id="SB0zG07"><a href="//imgur.com/SB0zG07">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![jupyter terminal image](http://imgur.com/SB0zG07)
+
 
 Click new=>python [root]. A window pop up. Enter the following text in that window:
 
