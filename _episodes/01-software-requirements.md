@@ -41,7 +41,7 @@ python
 {: .code}
 You should see output that looks simillar to the screenshot below: 
 
-![jupyter terminal image](http://uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/check_python_version.png)
+![jupyter terminal image](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSK8gL3tWpwlNL7x-YmOUCeIPTCSplNWHY3bnnMYzm_VcB8L5sZS5ZD4EYP)
 
 Click new=>python [root]. A window pop up. Enter the following text in that window:
 
