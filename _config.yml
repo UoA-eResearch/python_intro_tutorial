@@ -9,7 +9,7 @@ carpentry: "swc"
 title: "Programming in Python"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: eresearch-support@list.auckland.ac.nz
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -64,4 +64,4 @@ exclude:
   - bin
 
 # Turn off built-in syntax highlighting.
-highlighter: false
+highlighter: true 
