@@ -89,7 +89,29 @@ If you run into any difficulties, please request help before the workshop begins
 
 #### Ubuntu
 
-1. Open [http://www.pyzo.org/start.html](http://www.pyzo.org/start.html) with your web browser.
+Open Terminal and type the following:
+
+~~~
+$ sudo apt-get install python3-pip python3-pyqt4
+~~~
+{: .code}
+
+and press enter. Then type the following: 
+
+~~~
+$ sudo python3 -m pip install pyzo --upgrade
+~~~
+{: .code}
+
+and press enter. To open pyzo, type: 
+
+~~~
+$ pyzo
+~~~
+{: .code}
+
+and press enter.
+
 
 ## Getting the Data
 
