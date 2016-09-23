@@ -143,6 +143,7 @@ $ python
 ~~~
 {: .source}
 
+
 #### IDE 
 
 We recommend using the Jupyter notebook for this lesson. However, alternatively, you could use an Integrated development environment or text editor of your choice. If using such software is more appealing to you, then launch pyzo(or whichever tool you prefer) and then head on to the [first lesson](https://uoa-eresearch.github.io/python_intro_tutorial/01/). 
