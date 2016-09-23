@@ -40,6 +40,7 @@ python
 ~~~
 {: .code}
 You should see output that looks simillar to the screenshot below: 
+
 ![jupyter terminal image](http://uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/check_python_version.png)
 
 Click new=>python [root]. A window pop up. Enter the following text in that window:
@@ -59,6 +60,7 @@ hello world
 
 ## Testing pyzo
 Open Pyzo. A window should popup that is simmilar to what is shown below:  
+
 ![jupyter terminal image](http://uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/pyzo_check_python_version.png)
 
 Take a look at the window on the top right corner where it says:
