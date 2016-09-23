@@ -41,7 +41,8 @@ python
 {: .code}
 You should see output that looks simillar to the screenshot below: 
 
-![jupyter terminal image](http://imgur.com/SB0zG07)
+![jupyter terminal image](//imgur.com/SB0zG07)
+<blockquote class="imgur-embed-pub" lang="en" data-id="SB0zG07"><a href="//imgur.com/SB0zG07">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Click new=>python [root]. A window pop up. Enter the following text in that window:
 
