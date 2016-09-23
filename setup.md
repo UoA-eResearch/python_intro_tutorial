@@ -131,13 +131,17 @@ We will teach Python using the Jupyter notebook, a programming environment that 
 
 To start the notebook, open a terminal or git bash and type the command:
 
+~~~
 $ jupyter notebook
-{: .bash}
+~~~
+{: .source}
 
 To start the Python interpreter without the notebook, open a terminal or git bash and type the command:
 
+~~~
 $ python
-{: .bash}
+~~~
+{: .source}
 
 #### IDE 
 
