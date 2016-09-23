@@ -41,7 +41,7 @@ python
 {: .code}
 You should see output that looks simillar to the screenshot below: 
 
-![jupyter terminal image](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSK8gL3tWpwlNL7x-YmOUCeIPTCSplNWHY3bnnMYzm_VcB8L5sZS5ZD4EYP)
+![jupyter terminal image](http://imgur.com/SB0zG07)
 
 Click new=>python [root]. A window pop up. Enter the following text in that window:
 
