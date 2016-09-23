@@ -61,7 +61,7 @@ hello world
 ## Testing pyzo
 Open Pyzo. A window should popup that is simmilar to what is shown below:  
 
-![Testing Pyzo](![jupyter notebook](https://github.com/UoA-eResearch/python_intro_tutorial/raw/master/fig/pyzo_check_python_version.png)
+![Testing Pyzo](https://github.com/UoA-eResearch/python_intro_tutorial/raw/master/fig/pyzo_check_python_version.png)
 
 Take a look at the window on the top right corner where it says:
 
