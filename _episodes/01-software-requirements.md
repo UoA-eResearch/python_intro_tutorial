@@ -31,7 +31,7 @@ Press enter. An internet browser window should pop up that looks as below:
 
 ![jupyter notebook image]({{ page.root }}/fig/jupyter-notebook.png)
 
-
+<a href="{{ page.root }}/fig/jupyter-notebook.png"><img src="{{ page.root }}/fig/jupyter-notebook.png" alt="Jupyter Notebook image" /></a>
 
 click new=>terminal. A new tab will open showing a black screen with a flashing cursor. Now type the following and press enter: 
 
