@@ -29,7 +29,7 @@ jupyter notebook
 
 Press enter. An internet browser window should pop up that looks as below:
 
-![jupyter notebook image]({{ page.root }}/fig/jupyter_notebook.png)
+![jupyter notebook image]({{ page.root }}/fig/jupyter-notebook.png)
 
 
 
