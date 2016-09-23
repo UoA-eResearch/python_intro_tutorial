@@ -29,7 +29,7 @@ jupyter notebook
 
 Press enter. An internet browser window should pop up that looks as below:
 
-<a href="http://imgbox.com/Q89BV9Y6" target="_blank"><img src="http://6.t.imgbox.com/Q89BV9Y6.jpg" alt="image host"/></a>  
+<a href="https://github.com/uoa-eresearch/python_intro_tutorial/fig/check_python_version_anaconda.png" target="_blank"><img src="http://6.t.imgbox.com/Q89BV9Y6.jpg" alt="image host"/></a>  
 
 
 click new=>terminal. A new tab will open showing a black screen with a flashing cursor. Now type the following and press enter: 
@@ -61,7 +61,7 @@ hello world
 ## Testing pyzo
 Open Pyzo. A window should popup that is simmilar to what is shown below:  
 
-![jupyter terminal image](http://uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/pyzo_check_python_version.png)
+![jupyter terminal image](//uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/pyzo_check_python_version.png)
 
 Take a look at the window on the top right corner where it says:
 
