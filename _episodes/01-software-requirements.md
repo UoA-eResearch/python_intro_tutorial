@@ -29,7 +29,7 @@ jupyter notebook
 
 Press enter. An internet browser window should pop up that looks as below:
 
-<a href="{{ page.root }}/fig/jupyter-notebook.png"><img src="{{ page.root }}/fig/episode-format-small.png" alt="Formatting Rules" /></a>
+<p><img src="{{ page.root }}/fig/episode-format-small.png" alt="Formatting Rules" /><p>
 
 click new=>terminal. A new tab will open showing a black screen with a flashing cursor. Now type the following and press enter: 
 
