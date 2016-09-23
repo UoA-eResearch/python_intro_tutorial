@@ -29,7 +29,7 @@ jupyter notebook
 
 Press enter. An internet browser window should pop up that looks as below:
 
-<a href="https://github.com/uoa-eresearch/python_intro_tutorial/fig/check_python_version_anaconda.png" target="_blank"><img src="http://6.t.imgbox.com/Q89BV9Y6.jpg" alt="image host"/></a>  
+<a href="https://github.com/uoa-eresearch/python_intro_tutorial/fig/check_python_version_anaconda.png" target="_blank"><img src="https://github.com/UoA-eResearch/python_intro_tutorial/raw/master/fig/jupyter-notebook.png" alt="image host"/></a>  
 
 
 click new=>terminal. A new tab will open showing a black screen with a flashing cursor. Now type the following and press enter: 
@@ -40,7 +40,7 @@ python
 {: .code}
 You should see output that looks simillar to the screenshot below: 
 
-![jupyter terminal image](http://imgur.com/SB0zG07)
+![jupyter terminal image](https://github.com/UoA-eResearch/python_intro_tutorial/raw/master/fig/jupyter-notebook.png)
 
 
 Click new=>python [root]. A window pop up. Enter the following text in that window:
