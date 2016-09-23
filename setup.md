@@ -123,4 +123,24 @@ notebook in the "data" directory (see [Starting Python](#Starting-Python)).
 
 Head to the [first lesson](https://uoa-eresearch.github.io/python_intro_tutorial/01/) to check that you've set up the software correctly.
 
+## Starting Python
+
+#### Jupyter Notebook
+
+We will teach Python using the Jupyter notebook, a programming environment that runs in a web browser. Jupyter requires a reasonably up-to-date browser, preferably a current version of Chrome, Safari, or Firefox (note that Internet Explorer version 9 and below are not supported). If you installed Python using Anaconda, Jupyter should already be on your system. If you did not use Anaconda, use the Python package manager pip (see the Jupyter website for details.)
+
+To start the notebook, open a terminal or git bash and type the command:
+
+$ jupyter notebook
+{: .bash}
+
+To start the Python interpreter without the notebook, open a terminal or git bash and type the command:
+
+$ python
+{: .bash}
+
+#### IDE 
+
+We recommend using the Jupyter notebook for this lesson. However, alternatively, you could use an Integrated development environment or text editor of your choice. If using such software is more appealing to you, then launch pyzo(or whichever tool you prefer) and then head on to the [first lesson](https://uoa-eresearch.github.io/python_intro_tutorial/01/). 
+
 [data-zip]: {{site.github.repository_url}}/blob/gh-pages/files/python-novice-gapminder-data.zip?raw=true
