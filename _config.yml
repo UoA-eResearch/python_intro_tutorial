@@ -26,6 +26,7 @@ repository: <USERNAME>/<PROJECT>
 amy_site: "https://amy.software-carpentry.org/workshops"
 dc_site: "http://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
+eresearch_community_site: "http://www.community.eresearch.auckland.ac.nz/welcome/"
 swc_site: "https://software-carpentry.org"
 swc_pages: "https://swcarpentry.github.io"
 template_repo: "https://github.com/swcarpentry/styles"
