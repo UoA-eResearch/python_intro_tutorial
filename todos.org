@@ -20,6 +20,14 @@ Work log.
 
 *** TODO 
 
+** TODO Call stack 
+
+** TODO Calling vs Defining 
+
+** TODO Parameter passing 
+
+** TODO Variable scope 
+
 
 ** Done
 *** DONE Get images rendering properly in project 

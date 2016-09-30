@@ -12,6 +12,7 @@ keypoints:
 - "Use a `for` loop to process files given a list of their names."
 - "Use `glob.glob` to find sets of files whose names match a pattern."
 - "Use `glob` and `for` to process batches of files."
+- "For more information on pandas see https://uoa-eresearch.github.io/python_intro_tutorial/about/"
 ---
 
 ## Use a `for` loop to process files given a list of their names.
