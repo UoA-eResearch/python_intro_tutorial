@@ -109,10 +109,6 @@ data/gapminder_gdp_oceania.csv 10039.59564
 >
 > For more information on working with and plotting datasets see [this extended tutorial](http://nsoontie.github.io/2015-03-05-ubc/novice/python/Pandas-Lesson.html)
 >
-> ~~~
-> code
-> ~~~
-> {: .source}
 {: .callout}
 
 > ## Determining Matches
