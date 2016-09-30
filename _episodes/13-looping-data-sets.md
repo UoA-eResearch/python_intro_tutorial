@@ -105,12 +105,6 @@ data/gapminder_gdp_oceania.csv 10039.59564
 *   But note that the minimum of the entire data set is also the minimum of one of the data sets,
     which is a nice check on correctness.
 
-> ## .callout
->
-> For more information on working with and plotting datasets see [this extended tutorial](http://nsoontie.github.io/2015-03-05-ubc/novice/python/Pandas-Lesson.html)
-
-{: .callout}
-
 > ## Callout Title
 >
 > text
