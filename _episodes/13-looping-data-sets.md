@@ -12,7 +12,6 @@ keypoints:
 - "Use a `for` loop to process files given a list of their names."
 - "Use `glob.glob` to find sets of files whose names match a pattern."
 - "Use `glob` and `for` to process batches of files."
-- "For more information on pandas see [this extended tutorial](https://uoa-eresearch.github.io/python_intro_tutorial/about/")
 ---
 
 ## Use a `for` loop to process files given a list of their names.
@@ -105,6 +104,12 @@ data/gapminder_gdp_oceania.csv 10039.59564
 *   Use a more specific pattern in the exercises to exclude the whole data set.
 *   But note that the minimum of the entire data set is also the minimum of one of the data sets,
     which is a nice check on correctness.
+
+> ## .callout
+>
+> For more information on working with and plotting datasets see [this extended tutorial](http://nsoontie.github.io/2015-03-05-ubc/novice/python/Pandas-Lesson.html)
+
+{: .callout}
 
 > ## Determining Matches
 >
