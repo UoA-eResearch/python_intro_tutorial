@@ -1,7 +1,10 @@
 * Meta 
-** TODO Get images rendering properly in project 
-** TODO Global todo list for project 
-** TODO Go through software carpentry material. 
+** DONE Get images rendering properly in project 
+   CLOSED: [2016-10-07 Fri 12:02]
+** DONE Global todo list for project 
+   CLOSED: [2016-10-07 Fri 12:03]
+** DONE Go through software carpentry material. 
+   CLOSED: [2016-10-07 Fri 12:03]
 
 
 * Done 
