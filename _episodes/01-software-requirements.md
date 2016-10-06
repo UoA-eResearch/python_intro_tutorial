@@ -29,7 +29,9 @@ jupyter notebook
 
 Press enter. An internet browser window should pop up that looks as below:
 
-![jupyter notebook image](http://https://uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/jupyter_notebook.png)
+![jupyter notebook](http://github.com/UoA-eResearch/python_intro_tutorial/raw/master/fig/jupyter-notebook.png)
+
+
 click new=>terminal. A new tab will open showing a black screen with a flashing cursor. Now type the following and press enter: 
 
 ~~~
@@ -37,7 +39,9 @@ python
 ~~~
 {: .code}
 You should see output that looks simillar to the screenshot below: 
-![jupyter terminal image](http://https://uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/check_python_version.png)
+
+![check pyzo version](http://github.com/UoA-eResearch/python_intro_tutorial/raw/master/fig/check_python_version_anaconda.png)
+
 
 Click new=>python [root]. A window pop up. Enter the following text in that window:
 
@@ -56,7 +60,9 @@ hello world
 
 ## Testing pyzo
 Open Pyzo. A window should popup that is simmilar to what is shown below:  
-![jupyter terminal image](http://https://uoa-eresearch.github.io/python_intro_tutorial/lesson-assets/pyzo_check_python_version.png)
+
+
+![Testing Pyzo](http://github.com/UoA-eResearch/python_intro_tutorial/raw/master/fig/pyzo_check_python_version.png)
 
 Take a look at the window on the top right corner where it says:
 
