@@ -1,120 +1,49 @@
-* Meta 
-** DONE Get images rendering properly in project 
-   CLOSED: [2016-10-07 Fri 12:02]
-** DONE Global todo list for project 
-   CLOSED: [2016-10-07 Fri 12:03]
-** DONE Go through software carpentry material. 
-   CLOSED: [2016-10-07 Fri 12:03]
- 
-Work log.
+ Work in progress 
 
 * Todos  
-** TODO IDE Basics. Running and quiting Pyzo  
-** TODO Difference btw. Python 2 and python 3. 
-** TODO Random numbers.
-** TODO BRING EVERYTHING TOGETHER!! Give design brief for a program that you help them at each step to create. Make it funny. 
 
-
-
-
-
-#+TODO: TODO(t) | DONE(d)
-
-** TODO Go over site pages and rebrand to Cer. 
-   CLOCK: [2016-09-30 Fri 14:30]
-
-*** TODO 
-
+** TODO LITERATE PROGRAMMIGN CONCEPTS 
+** TODO Documenting purpose and use. 
+** TODO Programs written for people ie. not computers. 
+** TODO modularity allows reuse. 
+** TODO No duplication. 
+** TODO Hiding cells using the jupyter notebook. 
+** TODO write software for people not computers. 
+** TODO How do I run code that is saved in a .py file. 
+** TODO Fixing Logic errors through print debugging. 
 ** TODO Call stack 
-
 ** TODO Calling vs Defining 
-
 ** TODO Parameter passing 
 
 ** TODO Variable scope 
-
-
-** Done
-*** DONE Get images rendering properly in project 
-    CLOSED: [2016-09-30 Fri 14:21]
-*** DONE Global todo list for project 
-    CLOSED: [2016-09-30 Fri 14:20]
-*** DONE Go through software carpentry material. 
-    CLOSED: [2016-09-30 Fri 14:20]
-
-*** DONE Basic python types, operations. Declaring data structures (lists, dictionaries). 
-    CLOSED: [2016-09-30 Fri 14:22]
-    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:49]
-**** DONE Float: a number represented with a decimal place.
-     CLOSED: [2016-08-31 Wed 15:31]
-**** DONE Integer: a whole number represented without a decimal place.
-     CLOSED: [2016-08-31 Wed 15:31]
-**** DONE String: a list of characters.
-     CLOSED: [2016-08-31 Wed 15:31]
-**** DONE Lists: a list of objects.
-     CLOSED: [2016-09-02 Fri 15:41]
-     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:41]
-**** DONE Understanding 2D array (list of lists).
-    CLOSED: [2016-09-02 Fri 15:41] Deprecated due to using pandas. 
+** TODO Understanding 2D array (list of lists).
+    Deprecated due to using pandas. 
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:41]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:41]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:41]
 Important for numPy.
-**** DONE numPy, matplotlib to visualise and use actual data.
-     CLOSED: [2016-09-02 Fri 15:42]
-     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:42]
-**** DONE Create a .csv file relating to a population health study.
-     CLOSED: [2016-09-02 Fri 15:43]
-     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:43]
-**** DONE Demo of numPy/matplotlib.
-     CLOSED: [2016-09-02 Fri 15:43]
-     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:43]
-*** DONE Basic arithmetic:
-    CLOSED: [2016-09-02 Fri 15:46]
-    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
-**** DONE add or concatenate.
-     CLOSED: [2016-08-31 Wed 15:31]
-**** DONE / division.
-     CLOSED: [2016-08-31 Wed 15:31]
-**** DONE // floor division 
-     CLOSED: [2016-08-31 Wed 15:31]
-**** DONE % modulus.
-     CLOSED: [2016-08-31 Wed 15:31]
-**** DONE Print statements, Built in functions, help.
-     CLOSED: [2016-08-31 Wed 15:31]
-**** DONE print()
-     CLOSED: [2016-08-31 Wed 15:32]
-**** DONE len()
-     CLOSED: [2016-08-31 Wed 15:32]
-**** DONE substring()
-     CLOSED: [2016-09-02 Fri 15:44] Deprecated due to glob.glob. 
-     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:44]
-     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:44]
-**** DONE find() Deprecated due to using reg expressions to find files. 
-     CLOSED: [2016-09-02 Fri 15:44]
-     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:44]
-**** DONE max()/min()
-     CLOSED: [2016-08-31 Wed 16:18]
-     - CLOSING NOTE [2016-08-31 Wed 16:18]
-**** DONE Search google for some and put emphasis on the fact that memorizing functions are not important but rather a skill picked up by practice. If you were working in a lab you don't need to know everything about the lab just where to look for what you are wanting to use.
-     CLOSED: [2016-09-02 Fri 15:46] Deprecated ie. added to master todo list. 
-     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
-*** DONE Input 
-    CLOSED: [2016-09-02 Fri 15:45]
-    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:45]
-**** DONE Converting types.
-    CLOSED: [2016-09-02 Fri 15:47]
+** TODO numPy, matplotlib to visualise and use actual data.
+   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:42]
+** TODO Demo of numPy/matplotlib.
+   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:43]
+  CLOSED: [2016-09-02 Fri 15:46]
+  - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
+** TODO find() Deprecated due to using reg expressions to find files. 
+   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:44]
+** TODO Search google for some and put emphasis on the fact that memorizing functions are not important but rather a skill picked up by practice. If you were working in a lab you don't need to know everything about the lab just where to look for what you are wanting to use.
+   Deprecated ie. added to master todo list. 
+   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
+  CLOSED: [2016-09-02 Fri 15:45]
+  - State "DONE"       from "TODO"       [2016-09-02 Fri 15:45]
+** TODO Converting types.
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:47]
 Put emphasis on the difference in some methods when working on different types, and that it is important to make sure we are working with the correct type so that we don't end up with crazy output.
-*** DONE Debugging 
     CLOSED: [2016-09-02 Fri 15:54]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:54]
-**** DONE Error messages? Reading them and understanding where the error is.
-     CLOSED: [2016-09-02 Fri 15:45]
-     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:45]
+** TODO Error messages? Reading them and understanding where the error is.
+   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:45]
 
-**** DONE Basic problems involving variable assignment, converting input into correct type.
-    CLOSED: [2016-09-02 Fri 15:45]
+** TODO Basic problems involving variable assignment, converting input into correct type.
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:45]
 
 e.g:
@@ -128,170 +57,36 @@ print(B = C)
 print(A = C)
 
 What is output?
-*** DONE Input/Output
     CLOSED: [2016-09-02 Fri 15:46]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
-**** DONE User input/output. 
-     CLOSED: [2016-09-02 Fri 15:46]
-     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
-**** DONE File input/output.
-    CLOSED: [2016-09-02 Fri 15:46]
+** TODO User input/output. 
+   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
+** TODO File input/output.
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
 Make a text file with a large number of lines consisting of 
 “Name age gender” for us to import and manipulate during this section.
 Avoid the use of unnecessary libraries yet at all costs.
-*** DONE Functions.
     CLOSED: [2016-09-02 Fri 15:54]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:54]
-**** TODO Compartmentalisation for readability and organization. Also to break down a big problem into lots of smaller ones then bring them all together in a main() function.
-*** DONE Control Flow 
-    CLOSED: [2016-09-02 Fri 15:54]
-    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:54]
-**** DONE loops , conditionals, using actual relevant data.
-     CLOSED: [2016-09-02 Fri 15:47]
-     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:47]
-**** DONE Multiline comments. 
-     CLOSED: [2016-09-02 Fri 15:52]
+** TODO loops , conditionals, using actual relevant data.
+   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:47]
+** TODO Multiline comments. 
      - State "DONE"       from "CANCELED"   [2016-09-02 Fri 15:52]
 
-*** DONE Libraries.
    CLOSED: [2016-09-02 Fri 15:48]
    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:48]
 Import some helpful libraries. Make very clear that these are still python but rather code that has been written for you to help you do more complex tasks a lot easier. Show how to google to find methods within this library.
 
-
-*** DONE Testing and Debugging.  
     CLOSED: [2016-09-02 Fri 15:51]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:51]
-**** TODO Try catch.
-**** TODO Assertions.
-**** TODO Giving a piece of broken code and asking them to fix it. Or giving broken data and asking them to write a program to catch it.
-
-*** DONE Ipython Notebook basics. 
-    CLOSED: [2016-08-31 Wed 14:45]
-*** DONE Finalise setup guide 
-    CLOSED: [2016-09-30 Fri 14:19]
-**** WAITING Ensure instructions to install pyzo on ubuntu are available 
-     - State "WAITING"    from "WAITING"    [2016-08-31 Wed 12:49] \\
-       Waiting on ubuntu install
-**** DONE Instructions to check installation are up. 
-     CLOSED: [2016-08-31 Wed 12:41]
-     - CLOSING NOTE [2016-08-31 Wed 12:41] \\
-       Donseskis
-     - CLOSING NOTE [2016-08-31 Wed 11:44] \\
-       Done and dusted
-
-
-* Misc Notes
-
-
-** TODO Random function/Library.  
+** TODO Try catch.
+** TODO Assertions.
+** TODO Giving a piece of broken code and asking them to fix it. Or giving broken data and asking them to write a program to catch it.
+   CLOSED: [2016-08- 
 ** TODO Googling functions. Exercise or Demonstrate. 
-** TODO Exercises involving classes/library and going to google.
 ** TODO Using stack overflow for code trouble shooting. 
 ** TODO Google? Show how to google error messages.
-** TODO Basic print debugging.
-** TODO TODO Problem solving.
+** TODO Make found errors into future test cases.
 ** TODO Pseudocode.
-**** TODO Decide on a generic pseudocode syntax to use.
-** TODO Classes.
-Discuss this and make sure everyone understands. Use “super object” analogy to reference the intro analogy made about objects.
-
-Exercises using pseudocode and problem solving to implement functions, loops and conditionals.
-** Libraries
-*** TODO 
-** Lists and indexing 
-*** Lists are like locker rooms where each locker stores at most one value. 
-*** 
-
-* Lesson Notes 
-** Running and Quiting: 
-*** .py extension is not mandatory ie. is for humans. 
-*** Benefits of using a notebook. 
-*** Key shortcuts. 
-**** Esc Control mode. 
-***** Try some stuff. 
-***** A New cell Above. 
-***** B New cell below. 
-***** X Delete cell. 
-**** Ret Edit mode. 
-***** Ret adds other lines to code. 
-***** Shift + Ret Executes cell. 
-*** Rendering markdown with notebooks. 
-***** A simplified format that allows us to write documents that will look like webpages. 
-***** We can access markdown mode by pressing M in control mode. 
-***** Go back to code mode by pressing Y in control mode. 
-**** Examples  
-***** L1 Header and L2. 
-***** Unordered List. 
-***** Ordered list. 
-***** Links 
-***** Named Links 
-** Variables and Assignment 
-*** = operator. 
-*** Allowed variable names. 
-**** Cant start with digit. 
-**** cant contain spaces, ' marks or other punct except. 
-**** underscore ie. used to seperate words in var name. 
-**** underscores at start have a special purpose which we wont cover in less. 
-*** print function. 
-**** displays things. 
-**** Used for print debugging. 
-*** we call the print function ie. pokemon analogy. 
-**** Variables persist between cells once executed. Illustrate this. 
-**** Variables must be declared. 
-*** last line of error message usually the most usefull. 
-**** Python case sensistive. 
-***** we recommend using lower case with underscores even though there are many naming conventions. 
-**** Use meaningful variable names.
-***** Consider your future self 
-***** Audience. 
-**** Variables can be used in calculations. 
-**** Swapping values exercise. 
-** Data types and type conversion 
-*** Every value has a type. 
-**** ints, floats and strings. 
-**** type function. Used to determine type of whats stored in variables(not var itself)  
-**** type determines operations that can be performed on values. 
-***** ints can be subtracted but not stings. 
-***** eg. strings can be added and multiplied but has different effect. 
-***** Strings have length but not int and floats
-***** Must convert types to perform some operations on them. 
-***** basic type conversion. 
-***** can mix ints and floats freely in ops. 
-***** Unlike spreadsheet cells. vars only change value when changed directly.  
-** Built in functions and help 
-*** What's an argument. 
-*** Different functions take different numbers of argumensts 
-**** Always use parenthesis even when zero arguments. 
-*** min, max and round. 
-**** min and max work on strings. 
-*** However, functions may only contain certain(combinations of) arguments. 
-**** len cant take in. 
-**** max and min must have at least one argument. 
-*** Some functions have default argument values. 
-**** round with 1 value rounds to 0 decimal places. 
-*** How do we find this information out?
-**** help(function_name)
-**** two additional ways in jupyter. 
-***** shift - tab in parenthesis of function. 
-***** function_name?
-*** Every function returns something 
-**** None is what it returns when it has nothing useful to return. 
-** Error messages. 
-*** Comments. 
-*** Sytax errors cause. 
-*** Sometimes python gives us line numbers with errors. 
-*** Reading an error message ipython 
-*** U dont have to know all error messages. 
-**** stack overflow. 
-**** google. 
-*** Indentation error
-*** 
-
-
-
-#+TODO: TODO(t) WAITING(w) | DONE(d)
-#+TODO: REPORT(r) BUG(
-
-
+*** TODO Decide on a generic pseudocode syntax to use.
+** TODO BUILD brief for big project ie. capstone. 

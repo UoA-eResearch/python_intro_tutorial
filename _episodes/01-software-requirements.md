@@ -3,8 +3,8 @@ title: "Software requirements"
 teaching: 0
 exercises: 30
 questions:
-- What software do I need? 
-- "How do I make sure that the required software is installed correctly on my computer."
+- What software do I need to complete this workshop? 
+- "How do I make sure that the required software is installed correctly on my computer?"
 objectives:
 - "To ensure that all required software is installed on your computer?"
 - "To get instructors involved if any problems are present so that you can keep up with the lesson without any technical issues."
@@ -17,7 +17,7 @@ In order to complete this course, you will require the following 2 pieces of sof
 *   Continuum Anaconda. Ensure that you have the python 3.x version.
 *   Pyzo. Ensure that you are you are using the anaconda python interprettor.
 
-Instructions on how to check this are in the following section. 
+Instructions on how to check that you have the required software and it is set up properly are in the following section. 
 
 ## Testing Anaconda
 Open the command prompt in windows or terminal for MAC OSX/Linux and type the following:
