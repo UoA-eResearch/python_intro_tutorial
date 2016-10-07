@@ -24,8 +24,7 @@ license terms.
 Under the following terms:
 
 * **Attribution**---You must give appropriate credit (mentioning that
-  your work is derived from work that is Copyright © Software
-  Carpentry and Copyright © the eResearch Community and, where practical, linking to
+  your work is derived from work that is Copyright © the eResearch Community and, where practical, linking to
   http://software-carpentry.org/ ), linking to (http://www.community.eresearch.auckland.ac.nz/), provide a [link to the
   license][cc-by-human], and indicate if changes were made. You may do
   so in any reasonable manner, but not in any way that suggests the
