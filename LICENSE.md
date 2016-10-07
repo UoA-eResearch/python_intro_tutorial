@@ -47,7 +47,7 @@ Notices:
 ## Software
 
 Except where otherwise noted, the example programs and other software
-adapted from Software Carpentry and Data Carpentry are made available under the
+adapted from Software Carpentry are made available under the
 [OSI][osi]-approved
 [MIT license][mit-license].
 
