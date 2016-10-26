@@ -9,23 +9,11 @@
       </button>
 
       {% comment %} Select what logo to display. {% endcomment %}
-      {% if page.carpentry == "swc" %}
-      <a href="{{ site.swc_site }}" class="pull-left">
-        <img class="navbar-logo" src="{{ site.github.url | replace_first: 'http:', 'https:' }}/assets/img/swc-icon-blue.svg" alt="Software Carpentry logo" />
+     
+      <a href="{{ site.eresearch_community_site }}" class="pull-left">
+        <img class="navbar-logo" src="{{ site.github.url | replace_first: 'http:', 'https:' }}/assets/img/cer-community-logo.svg" alt="CeR logo" />
       </a>
-      {% elsif page.carpentry == "dc" %}
-      <a href="{{ site.dc_site }}" class="pull-left">
-        <img class="navbar-logo" src="{{ site.github.url | replace_first: 'http:', 'https:' }}/assets/img/dc-icon-black.svg" alt="Data Carpentry logo" />
-      </a>
-      {% elsif site.carpentry == "swc" %}
-      <a href="{{ site.swc_site }}" class="pull-left">
-        <img class="navbar-logo" src="{{ site.github.url | replace_first: 'http:', 'https:' }}/assets/img/swc-icon-blue.svg" alt="Software Carpentry logo" />
-      </a>
-      {% elsif site.carpentry == "dc" %}
-      <a href="{{ site.dc_site }}" class="pull-left">
-        <img class="navbar-logo" src="{{ site.github.url | replace_first: 'http:', 'https:' }}/assets/img/dc-icon-black.svg" alt="Data Carpentry logo" />
-      </a>
-      {% endif %}
+     
 
       {% comment %} Always show link to home page. {% endcomment %}
       <a class="navbar-brand" href="{{ site.github.url }}/">Home</a>
@@ -33,9 +21,6 @@
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-
-	{% comment %} Always show code of conduct. {% endcomment %}
-        <li><a href="{{ site.github.url }}/conduct/">Code of Conduct</a></li>
 
 	{% comment %} Show setup instructions, reference guide, and lesson episodes for lessons. {% endcomment %}
         {% if site.kind == "lesson" %}

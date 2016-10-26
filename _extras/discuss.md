@@ -3,4 +3,4 @@ layout: page
 title: "Discussion"
 permalink: /discuss/
 ---
-FIXME: general discussion and further reading for learners.
+This is a place where general discussion and further reading for learners goes. 

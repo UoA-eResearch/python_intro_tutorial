@@ -1,21 +1,24 @@
 <hr/>
 <footer>
   <div class="row">
-    <div class="col-md-6" align="left">
-      <h4>
+    <div class="col-md-8" align="left">
+      <h7>
 	Copyright &copy; 2016
-	{% if site.carpentry == "swc" %}<a href="{{ site.swc_site }}">Software Carpentry Foundation</a>{% endif %}
-	{% if site.carpentry == "dc" %}<a href="{{ site.dc_site }}">Data Carpentry</a>{% endif %}
-      </h4>
+	<a href="{{ site.eresearch_centre_site }}">Centre for eResearch</a>,
+	University of Auckland
+	<a href="{{ site.full_license }}">CC-BY 4.0</a>
+	adapted from
+	<a href="{{ site.swc_site }}">Software Carpentry.</a>   
+     </h7>
     </div>
-    <div class="col-md-6" align="right">
-      <h4>
+    <div class="col-md-4" align="right">
+      <h5>
 	<a href="{{ site.github.repository_url }}/">Source</a>
 	/
 	<a href="{{ site.github.repository_url }}/blob/gh-pages/CONTRIBUTING.md">Contributing</a>
 	/
 	<a href="mailto:{{ site.email }}">Contact</a>
-      </h4>
+      </h5>
     </div>
   </div>
 </footer>

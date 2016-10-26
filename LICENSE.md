@@ -5,7 +5,7 @@ permalink: /license/
 ---
 ## Instructional Material
 
-All Software Carpentry and Data Carpentry instructional material is
+All instructional material on this page is adapted from [software carpentry][swc-site]. Additionally, it is
 made available under the [Creative Commons Attribution
 license][cc-by-human]. The following is a human-readable summary of
 (and not a substitute for) the [full legal text of the CC BY 4.0
@@ -24,9 +24,8 @@ license terms.
 Under the following terms:
 
 * **Attribution**---You must give appropriate credit (mentioning that
-  your work is derived from work that is Copyright © Software
-  Carpentry and, where practical, linking to
-  http://software-carpentry.org/), provide a [link to the
+  your work is derived from work that is Copyright © the eResearch Community and, where practical, linking to
+  http://software-carpentry.org/ ), linking to (http://www.community.eresearch.auckland.ac.nz/), provide a [link to the
   license][cc-by-human], and indicate if changes were made. You may do
   so in any reasonable manner, but not in any way that suggests the
   licensor endorses you or your use.
@@ -48,7 +47,7 @@ Notices:
 ## Software
 
 Except where otherwise noted, the example programs and other software
-provided by Software Carpentry and Data Carpentry are made available under the
+adapted from Software Carpentry are made available under the
 [OSI][osi]-approved
 [MIT license][mit-license].
 
@@ -71,13 +70,9 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Trademark
-
-"Software Carpentry" an "Data Carpentry" and their respective logos
-are registered trademarks of [NumFOCUS][numfocus].
-
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
 [mit-license]: http://opensource.org/licenses/mit-license.html
 [numfocus]: http://numfocus.org/
 [osi]: http://opensource.org
+[swc-site]: http://software-carpentry.org/
