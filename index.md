@@ -10,7 +10,7 @@ Please note that this lesson uses Python 3 rather than Python 2.
 
 > ## Prerequisites
 >
->1. Learners need to understand the  basic concepts of files and directories. 
+>1. Learners need to understand the what files and directories are.
 >2.  Learners must install Python before the class starts. 
 >3. Learners must download the gapminder data before the class starts: please download and unzip the file [python-novice-gapminder-data.zip]({{ https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip}}). 
 > 
