@@ -1,8 +1,14 @@
  Work in progress 
+* Diary 
+02/12/2016
+
+1. In Progress: Since the python workshop, I have begun working on finetuning the material by removing unnecessary terminology from the various pages and adding explanatory diagrams to drill concepts into the mind of students. 
+2. Removed the IDE related stuff from the curriculum for now while I get the initial version of the course up. (Will consider putting it back later). 
 
 * Todos  
 
-** TODO Explain what a working directory. 
+** TODO Explain what a working directory is. 
+** TODO Consider adding IDE material. 
 ** TODO Advanced stuff 
 *** TODO LITERATE PROGRAMMIGN CONCEPTS 
 *** TODO Documenting purpose and use. 
