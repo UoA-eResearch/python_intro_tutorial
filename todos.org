@@ -2,48 +2,50 @@
 
 * Todos  
 
-** TODO LITERATE PROGRAMMIGN CONCEPTS 
-** TODO Documenting purpose and use. 
-** TODO Programs written for people ie. not computers. 
-** TODO modularity allows reuse. 
-** TODO No duplication. 
-** TODO Hiding cells using the jupyter notebook. 
-** TODO write software for people not computers. 
-** TODO How do I run code that is saved in a .py file. 
-** TODO Fixing Logic errors through print debugging. 
-** TODO Call stack 
-** TODO Calling vs Defining 
-** TODO Parameter passing 
+** TODO Explain what a working directory. 
+** TODO Advanced stuff 
+*** TODO LITERATE PROGRAMMIGN CONCEPTS 
+*** TODO Documenting purpose and use. 
+*** TODO Programs written for people ie. not computers. 
+*** TODO modularity allows reuse. 
+*** TODO No duplication. 
+*** TODO Hiding cells using the jupyter notebook. 
+*** TODO write software for people not computers. 
+*** TODO How do I run code that is saved in a .py file. 
+*** TODO Fixing Logic errors through print debugging. 
+*** TODO Call stack 
+*** TODO Calling vs Defining 
+*** TODO Parameter passing 
 
-** TODO Variable scope 
-** TODO Understanding 2D array (list of lists).
+*** TODO Variable scope 
+*** TODO Understanding 2D array (list of lists).
     Deprecated due to using pandas. 
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:41]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:41]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:41]
 Important for numPy.
-** TODO numPy, matplotlib to visualise and use actual data.
-   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:42]
-** TODO Demo of numPy/matplotlib.
-   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:43]
-  CLOSED: [2016-09-02 Fri 15:46]
-  - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
-** TODO find() Deprecated due to using reg expressions to find files. 
-   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:44]
-** TODO Search google for some and put emphasis on the fact that memorizing functions are not important but rather a skill picked up by practice. If you were working in a lab you don't need to know everything about the lab just where to look for what you are wanting to use.
-   Deprecated ie. added to master todo list. 
+*** TODO numPy, matplotlib to visualise and use actual data.
+    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:42]
+*** TODO Demo of numPy/matplotlib.
+    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:43]
+   CLOSED: [2016-09-02 Fri 15:46]
    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
-  CLOSED: [2016-09-02 Fri 15:45]
-  - State "DONE"       from "TODO"       [2016-09-02 Fri 15:45]
-** TODO Converting types.
+*** TODO find() Deprecated due to using reg expressions to find files. 
+    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:44]
+*** TODO Search google for some and put emphasis on the fact that memorizing functions are not important but rather a skill picked up by practice. If you were working in a lab you don't need to know everything about the lab just where to look for what you are wanting to use.
+    Deprecated ie. added to master todo list. 
+    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
+   CLOSED: [2016-09-02 Fri 15:45]
+   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:45]
+*** TODO Converting types.
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:47]
 Put emphasis on the difference in some methods when working on different types, and that it is important to make sure we are working with the correct type so that we don't end up with crazy output.
     CLOSED: [2016-09-02 Fri 15:54]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:54]
-** TODO Error messages? Reading them and understanding where the error is.
-   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:45]
+*** TODO Error messages? Reading them and understanding where the error is.
+    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:45]
 
-** TODO Basic problems involving variable assignment, converting input into correct type.
+*** TODO Basic problems involving variable assignment, converting input into correct type.
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:45]
 
 e.g:
@@ -59,18 +61,18 @@ print(A = C)
 What is output?
     CLOSED: [2016-09-02 Fri 15:46]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
-** TODO User input/output. 
-   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
-** TODO File input/output.
+*** TODO User input/output. 
+    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
+*** TODO File input/output.
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:46]
 Make a text file with a large number of lines consisting of 
 “Name age gender” for us to import and manipulate during this section.
 Avoid the use of unnecessary libraries yet at all costs.
     CLOSED: [2016-09-02 Fri 15:54]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:54]
-** TODO loops , conditionals, using actual relevant data.
-   - State "DONE"       from "TODO"       [2016-09-02 Fri 15:47]
-** TODO Multiline comments. 
+*** TODO loops , conditionals, using actual relevant data.
+    - State "DONE"       from "TODO"       [2016-09-02 Fri 15:47]
+*** TODO Multiline comments. 
      - State "DONE"       from "CANCELED"   [2016-09-02 Fri 15:52]
 
    CLOSED: [2016-09-02 Fri 15:48]
@@ -79,14 +81,14 @@ Import some helpful libraries. Make very clear that these are still python but r
 
     CLOSED: [2016-09-02 Fri 15:51]
     - State "DONE"       from "TODO"       [2016-09-02 Fri 15:51]
-** TODO Try catch.
-** TODO Assertions.
-** TODO Giving a piece of broken code and asking them to fix it. Or giving broken data and asking them to write a program to catch it.
-   CLOSED: [2016-08- 
-** TODO Googling functions. Exercise or Demonstrate. 
-** TODO Using stack overflow for code trouble shooting. 
-** TODO Google? Show how to google error messages.
-** TODO Make found errors into future test cases.
-** TODO Pseudocode.
-*** TODO Decide on a generic pseudocode syntax to use.
-** TODO BUILD brief for big project ie. capstone. 
+*** TODO Try catch.
+*** TODO Assertions.
+*** TODO Giving a piece of broken code and asking them to fix it. Or giving broken data and asking them to write a program to catch it.
+    CLOSED: [2016-08- 
+*** TODO Googling functions. Exercise or Demonstrate. 
+*** TODO Using stack overflow for code trouble shooting. 
+*** TODO Google? Show how to google error messages.
+*** TODO Make found errors into future test cases.
+*** TODO Pseudocode.
+**** TODO Decide on a generic pseudocode syntax to use.
+*** TODO BUILD brief for big project ie. capstone. 
